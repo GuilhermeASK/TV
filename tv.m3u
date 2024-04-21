@@ -4,120 +4,69 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO", 18/04/24
 https://cr7v.short.gy/live3/GloboTVMirante/Index.m3u8
 
-################################################# ######################### CANAIS ESPORTES
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83623
-
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV HD
-https://cr7v.short.gy/manoiptv/SporTV-HD/Index.m3u8
+################################################# ######################### SportTV
 
 #EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV FHD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83257
+http://meumd.com:80/5199628952/51996ti/142334
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | ESPORTES",SporTV 4K
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83814
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 FHD
+http://meumd.com:80/5199628952/51996ti/110276
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://imgur.com/ZpjPkqS.png" group-title="Canais | ESPORTES",SporTV 2 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83255
-
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83256
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/162796
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD
-https://cr7v.short.gy/manoiptv/ESPN/Index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN HD [Alterar]
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83208
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://imgur.com/ttHpdGp.png" group-title="Canais | ESPORTES",SporTV 3 FHD
+http://meumd.com:80/5199628952/51996ti/110272
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais | ESPORTES",ESPN FHD
-http://51.83.238.223:16515/
+http://meumd.com:80/5199628952/51996ti/142332
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES", ESPN 2HD
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES", ESPN 2 FHD
+http://meumd.com:80/5199628952/51996ti/108721
 
-#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais | ESPORTES", ESPN 2 HD [Alterar]
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83209
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 4K
+http://meumd.com:80/5199628952/51996ti/189506
 
-#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais | ESPORTES",ESPN 3 alta definição
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83207
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83560
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 alta definição
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83217
-
-#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 HD
-http://51.83.238.223:16575/
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais | ESPORTES",ESPN 4 4K
+http://meumd.com:80/5199628952/51996ti/108947
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPORTES",ESPN 5 HD
 http://s.apkwuv.xyz:80/demopadexchange/demopad/83561
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais | ESPORTES",Band Sports alta definição
-http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
-
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD
 http://209.222.97.92:16493/
 
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate HD [ Alterar]
-https://cr7v.short.gy/manotv/EVENTO/Index.m3u8
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="CombateHD" tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais | ESPORTES",Combate FHD
+http://meumd.com:80/5199628952/51996ti/110263
 
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass
-http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
+################################################# ######################### PREMIERE
 
-#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais | ESPORTES",UFC Fightpass HD
-http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
-
-################################################# ######################### ESTREIA DO CANAIS
-
-#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83601
-
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes HD
-https://cr7v.short.gy/manoiptv/PFCCLUBEHD/Index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://i.imgur.com/hLgP3ad.png" group-title="CANAIS |  4K UHD",PREMIERE CLUBES 4K
+http://meumd.com:80/5199628952/51996ti/108942
 
 #EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-logo="https://imgur.com/T6VmjYB.png" group-title="Canais | ESPORTES",Premiere Clubes FHD
-https://cr7v.short.gy/manoiptv/PremiereClube/Index.m3u8
+http://meumd.com:80/5199628952/51996ti/108742
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83602
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 FHD
+http://meumd.com:80/5199628952/51996ti/110362
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | ESPORTES",Premiere 2 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/87323
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 FHD
+http://meumd.com:80/5199628952/51996ti/110358
 
-#EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Estreia 3 SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83603
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | ESPORTES",Premiere 3 HD
-http://185.150.190.225:16468/
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 SD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83604
-
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83247
-
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 HD
-http://185.150.190.225:16472/
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | ESPORTES",Premiere 4 FHD
+http://meumd.com:80/5199628952/51996ti/110354
 
 #EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 SD
 http://185.150.190.225:16476/
 
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83248
+#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | ESPORTES",Premiere 5 FHD
+http://meumd.com:80/5199628952/51996ti/110350
 
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83249
+#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 FHD
+http://meumd.com:80/5199628952/51996ti/110346
 
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | ESPORTES",Premiere 6 HD [Alterar]
-http://185.150.190.225:16482/
+#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 FHD
+http://meumd.com:80/5199628952/51996ti/110342
 
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | ESPORTES",Premiere 7 HD
-http://s.apkwuv.xyz:80/demopadexchange/demopad/83250
+#EXTINF:-1 tvg-id="Premiere9.br" tvg-name="PREMIERE 9 FHD" tvg-logo="https://canais.asrv.io/premiere.png" group-title="CANAIS | PREMIERE",PREMIERE 8 FHD
+http://meumd.com:80/5199628952/51996ti/110335
 
 ################################################# ######################### AO VIVO
 
