@@ -62,16 +62,16 @@ http://dnsbr.xyz:80/b1901901/b324490/810
 ################################################# ######################### Canais | FILMES E SÉRIE
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE 4K" tvg-logo="https://i.imgur.com/MtbnouX.png" group-title="CANAIS |  4K UHD",SPACE 4K
-http://meumd.com:80/5199628952/51996ti/108959
+http://dnsbr.xyz:80/b1901901/b324490/80568
 
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://canais.asrv.io/space.png" group-title="CANAIS | FILMES E SÉRIES",SPACE FHD
-http://meumd.com:80/5199628952/51996ti/108565
+http://dnsbr.xyz:80/b1901901/b324490/846
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT 4K." tvg-logo="https://i.imgur.com/9ktzi8s.png" group-title="CANAIS |  4K UHD",TNT 4K.
-http://meumd.com:80/5199628952/51996ti/109985
+http://dnsbr.xyz:80/b1901901/b324490/80555
 
 #EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="https://canais.asrv.io/tnt.png" group-title="CANAIS | FILMES E SÉRIES",TNT FHD
-http://meumd.com:80/5199628952/51996ti/108551
+http://dnsbr.xyz:80/b1901901/b324490/785
 
 #EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL 4K" tvg-logo="https://i.imgur.com/mOV3irL.png" group-title="CANAIS |  4K UHD",WARNER CHANNEL 4K
 http://meumd.com:80/5199628952/51996ti/109971
@@ -100,32 +100,23 @@ http://meumd.com:80/5199628952/51996ti/189927
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+  TV 1 FHD" tvg-logo="https://i.imgur.com/l8yiURf.png" group-title="CANAIS | PPV",PARAMOUNT+  TV 1 FHD
 http://meumd.com:80/5199628952/51996ti/114409
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION 4K" tvg-logo="https://i.imgur.com/gLRElJ3.png" group-title="CANAIS |  4K UHD",TELECINE ACTION 4K
-http://meumd.com:80/5199628952/51996ti/110108
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://i.imgur.com/gLRElJ3.png" group-title="CANAIS |  4K UHD",TELECINE ACTION FHD
+http://dnsbr.xyz:80/b1901901/b324490/787
 
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION FHD" tvg-logo="https://canais.asrv.io/telecineaction.png" group-title="CANAIS | TELECINE",TELECINE ACTION FHD
-http://meumd.com:80/5199628952/51996ti/108641
-
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://i.imgur.com/56DnODo.png" group-title="CANAIS |  4K UHD",TELECINE PIPOCA 4K
-http://meumd.com:80/5199628952/51996ti/142927
-
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://canais.asrv.io/telecinepipoca.png" group-title="CANAIS | TELECINE",TELECINE PIPOCA FHD
-http://meumd.com:80/5199628952/51996ti/108643
-
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://i.imgur.com/lJJUixj.png" group-title="CANAIS |  4K UHD",TELECINE PREMIUM 4K
-http://meumd.com:80/5199628952/51996ti/142929
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/56DnODo.png" group-title="CANAIS |  4K UHD",TELECINE PIPOCA FHD
+http://dnsbr.xyz:80/b1901901/b324490/789
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://canais.asrv.io/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
-http://meumd.com:80/5199628952/51996ti/110091
+http://dnsbr.xyz:80/b1901901/b324490/786
 
 #EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH FHD" tvg-logo="https://canais.asrv.io/telecinetouch.png" group-title="CANAIS | TELECINE",TELECINE TOUCH FHD
-http://meumd.com:80/5199628952/51996ti/108645
+http://dnsbr.xyz:80/b1901901/b324490/788
 
 #EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT FHD" tvg-logo="https://canais.asrv.io/telecinecult.png" group-title="CANAIS | TELECINE",TELECINE CULT FHD
-http://meumd.com:80/5199628952/51996ti/108640
+http://dnsbr.xyz:80/b1901901/b324490/791
 
 #EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="CANAIS | TELECINE",TELECINE FUN FHD
-http://meumd.com:80/5199628952/51996ti/108642
+http://dnsbr.xyz:80/b1901901/b324490/790
 
 #EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES", AMC HD
 https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
