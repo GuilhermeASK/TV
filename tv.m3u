@@ -103,8 +103,8 @@ http://meumd.com:80/5199628952/51996ti/114409
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION" tvg-logo="https://i.imgur.com/gLRElJ3.png" group-title="CANAIS |  4K UHD",TELECINE ACTION FHD
 http://dnsbr.xyz:80/b1901901/b324490/787
 
-#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/56DnODo.png" group-title="CANAIS |  4K UHD",TELECINE PIPOCA FHD
-http://dnsbr.xyz:80/b1901901/b324490/789
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA" tvg-logo="https://i.imgur.com/56DnODo.png" group-title="CANAIS ",TELECINE PIPOCA FHD
+http://bccdn.xyz:80/852995349206/369331125312/789
 
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM FHD" tvg-logo="https://canais.asrv.io/telecinepremium.png" group-title="CANAIS | TELECINE",TELECINE PREMIUM FHD
 http://dnsbr.xyz:80/b1901901/b324490/786
